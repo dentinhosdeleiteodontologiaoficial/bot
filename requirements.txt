@@ -4,3 +4,4 @@ Flask-SQLAlchemy
 psycopg2-binary  # Para conectar ao PostgreSQL
 requests
 gunicorn         # Servidor de produção
+psycopg2-binary
