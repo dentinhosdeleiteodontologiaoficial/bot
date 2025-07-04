@@ -1,5 +1,3 @@
-# src/services/bot_logic.py (Versão Modificada)
-
 import re
 from datetime import datetime
 from src.models.conversation import db, Appointment
@@ -52,7 +50,7 @@ class BotLogic:
             return self.get_default_response()
 
     def get_main_menu(self):
-           """Retorna o menu principal"""
+        """Retorna o menu principal"""
         return """🦷 *Dentinhos de Leite Odontologia*
 
 Olá! Seja bem-vindo(a)! 
@@ -76,7 +74,7 @@ Digite o número da opção desejada ou a palavra-chave.
 Para emergências 24h: (16) 99269-2383 ou (16) 99212-0514"""
 
     def get_first_consultation_info(self):
- """Informações sobre primeira consulta"""
+        """Informações sobre primeira consulta"""
         return """💰 *PRIMEIRA CONSULTA*
 
 🔹 *Valor:* R$ 179,90
