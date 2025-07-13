@@ -71,7 +71,7 @@ Como posso ajudá-lo(a) hoje?
 
 Digite o número da opção desejada ou a palavra-chave.
 
-Para emergências 24h: (16) 99269-2383 ou Dr. Rafael no link -> ( http://wa.me/5516992120514?text=Ol%C3%A1 ) """
+Para emergências 24h: (16) 99269-2383 ou Dr. Rafael no link -> http://wa.me/5516992120514?text=Ol%C3%A1 """
 
     def get_first_consultation_info(self):
         """Informações sobre primeira consulta"""
