@@ -71,7 +71,7 @@ Como posso ajudá-lo(a) hoje?
 
 Digite o número da opção desejada ou a palavra-chave.
 
-Para emergências 24h: (16) 99269-2383 ou Dr. Rafael ( http://wa.me/5516992120514?text=Ol%C3%A1 ) """
+Para emergências 24h: (16) 99269-2383 ou Dr. Rafael no link -> ( http://wa.me/5516992120514?text=Ol%C3%A1 ) """
 
     def get_first_consultation_info(self):
         """Informações sobre primeira consulta"""
@@ -203,7 +203,7 @@ Digite uma das opções:
 📞 Nossa equipe entrará em contato em breve para confirmar o horário disponível.
 
 🏠 Voltar ao menu: digite *menu*
-📞 Emergências: (16) 99269-2383 ou Dr. Rafael ( http://wa.me/5516992120514?text=Ol%C3%A1 ) """
+📞 Emergências: (16) 99269-2383 ou Dr. Rafael no link -> http://wa.me/5516992120514?text=Ol%C3%A1 """
 
     def get_team_contact(self):
         """Informações para falar com a equipe"""
@@ -214,14 +214,14 @@ Durante o horário comercial, nossa equipe está disponível para atendimento pe
 
 📱 *Contatos:*
 • (16) 99269-2383
-• Dr. Rafael ( http://wa.me/5516992120514?text=Ol%C3%A1 )
+• Dr. Rafael no link -> http://wa.me/5516992120514?text=Ol%C3%A1 
 
 🕐 *Horário de Atendimento:*
 Segunda a Sexta: 8h às 18h
 Sábado: 8h às 12h
 
 🚨 *Emergências 24h:*
-(16) 99269-2383 ou fale diretamento com o Dr. Rafael ( http://wa.me/5516992120514?text=Ol%C3%A1 )
+(16) 99269-2383 ou fale diretamento com o Dr. Rafael no link -> http://wa.me/5516992120514?text=Ol%C3%A1
 
 🏠 Voltar ao menu: digite *menu*"""
 
@@ -233,7 +233,7 @@ Se seu filho está com dor ou desconforto, entre em contato imediatamente:
 
 📞 *Telefones de Emergência:*
 • (16) 99269-2383 
-• Dr. Rafael ( http://wa.me/5516992120514?text=Ol%C3%A1 )
+• Dr. Rafael no link -> http://wa.me/5516992120514?text=Ol%C3%A1
 
 ⚡ *Atendimento de urgências 24 horas*
 
@@ -254,7 +254,7 @@ Sábado: 8h às 12h
 Por favor, entre em contato durante este horário, ou se preferir, deixe sua mensagem e retornaremos assim que possível.
 
 🚨 *Para emergências 24h, ligue:*
-📞 (16) 99269-2383 ou Dr. Rafael ( http://wa.me/5516992120514?text=Ol%C3%A1 )
+📞 (16) 99269-2383 ou Dr. Rafael no link -> http://wa.me/5516992120514?text=Ol%C3%A1
 
 Digite *menu* para ver outras opções."""
         return message
@@ -271,7 +271,7 @@ Digite *menu* para ver as opções disponíveis ou escolha uma das opções:
 4️⃣ Agendar consulta
 5️⃣ Falar com equipe
 
-🚨 Emergências: (16) 99269-2383 ou Dr. Rafael ( http://wa.me/5516992120514?text=Ol%C3%A1 ) """
+🚨 Emergências: (16) 99269-2383 ou Dr. Rafael no link -> http://wa.me/5516992120514?text=Ol%C3%A1 """
 
     def is_business_hours(self):
         """Verifica se está no horário de atendimento"""
